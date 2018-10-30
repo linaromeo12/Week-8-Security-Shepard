@@ -17,10 +17,11 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection 
+![](https://github.com/linaromeo12/Week-8-Security-Shepard/blob/master/Blue%20SQLi.gif)
 
-Vulnerability #2: __________________
-
+Vulnerability #2: Session Hijacking 
+![](https://github.com/linaromeo12/Week-8-Security-Shepard/blob/master/Blue%20Session%20Highjack.gif)
 
 ## Green
 
