@@ -28,6 +28,7 @@ Vulnerability #1: Cross Site Scripting (XSS)
 ![](https://github.com/linaromeo12/Week-8-Security-Shepard/blob/master/Green%20XSS.gif)
 
 Vulnerability #2: User Enumeration 
+![](https://github.com/linaromeo12/Week-8-Security-Shepard/blob/master/Green%20User%20Enumeration.gif)
 
 
 ## Red
