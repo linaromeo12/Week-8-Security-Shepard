@@ -34,9 +34,11 @@ Vulnerability #2: User Enumeration
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross Site Request Forgery
+![](https://github.com/linaromeo12/Week-8-Security-Shepard/blob/master/Red%20CSRF.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Insecure Direct Object Reference 
+![](https://github.com/linaromeo12/Week-8-Security-Shepard/blob/master/Red%20IDOR.gif)
 
 
 ## Notes
